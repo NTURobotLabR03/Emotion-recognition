@@ -2,7 +2,7 @@
 multi-modal emotion recognition
 
 實際整合後online使用程式(vc12)
-*libary: Kinect SDK1.8、openCV2.4.9、Eigen <\n>
+*libary: Kinect SDK1.8、openCV2.4.9、Eigen <br>
 *使用unicode
 1.main function可設定要使用NN或RNN，fusion要用fscore或Fuzzy integral
 2.initial內讀取weight與參數初始化(注意讀檔路徑)，在emotion_vc10.cpp內的initial修改
